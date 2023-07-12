@@ -1,6 +1,6 @@
 # Hi there, I'm Shahjada Naim Uddin! 👋
 
-A Passionate Software Engineer Having Over 5 Years Of Experience Of Building Web Application With Javascript | Reactjs | Nodejs And Some Other Cool Libraries And Frameworks.
+A passionate Software Engineer having over 5 years of experience of building web application with Javascript | Reactjs | Nodejs and some other cool libraries and frameworks.
 
 ## 🌱 Technologies & Tools
 
