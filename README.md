@@ -15,7 +15,6 @@
 - RabbitMQ
 - Redis
 - Docker
-- [Add more technologies and tools you are proficient in]
 
 ## 💼 Professional Experience
 
