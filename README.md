@@ -1,6 +1,6 @@
 # Hi there, I'm Shahjada Naim Uddin! 👋
 
-[Short introduction about yourself and your background as a software engineer. Mention your passion for Node.js development.]
+A Passionate Software Engineer Having Over 5 Years Of Experience Of Building Web Application With Javascript | Reactjs | Nodejs And Some Other Cool Libraries And Frameworks.
 
 ## 🌱 Technologies & Tools
 
