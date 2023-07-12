@@ -18,16 +18,9 @@
 
 ## 💼 Professional Experience
 
-[Software Engineer at Technonext Ltd.]
-
+- Software Engineer at Technonext Ltd.
 
 ## 📫 Let's Connect!
 
 - Email: shahjadanaimuddin@gmail.com
 - LinkedIn: https://www.linkedin.com/in/naim365
-
-## 🌐 Portfolio Website
-
-
-
-
